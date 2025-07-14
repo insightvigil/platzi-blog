@@ -1,27 +1,19 @@
-## Face recognition - Frontend 🚀
-
-A web page where you can upload an image and it detects faces within it.  
-
-_This repository contains only the frontend; the backend is hosted separately_ [here](https://github.com/insightvigil/face-recognition-brain-backend).
+## Platzi Blog🚀
+A responsive web page built with modern CSS techniques, applying layouts, typography, and visual hierarchy best practices. The project replicates a clean, modern blog layout.
 
 ### Applied technologies 🧑‍💻
-- HTML
-- CSS
-- JavaScript
-- React
-- NodeJS
-
-### Applied API's 🧩
-- Clarifai (Face-Detection)
-
-### Features V1 ⚙️
-- Interactive
-- Animations
-- FontAwesome 
+- HTML5
+- CSS3
 - Google Fonts
+- FontAwesome
 
+### Features ⚙️
+- 📱 Responsive Design
+- 🎨 Modern CSS Layouts (Flexbox, Grid)
+- 🖱️ Interactive UI
+- Custom fonts and icons integration
 
-You can check it out live [here](https://face-recognition-brain-frontend-9jfn.onrender.com/).
+You can check it out live [here](https://insightvigil.github.io/platzi-blog).
 
 ### Contributors 🤝
 - [Adrián Vigil](https://github.com/insightvigil)
